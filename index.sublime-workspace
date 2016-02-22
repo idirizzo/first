@@ -19,7 +19,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3981,
+				"buffer_size": 3787,
 				"line_ending": "Windows"
 			}
 		}
@@ -128,7 +128,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3981,
+						"buffer_size": 3787,
 						"regions":
 						{
 						},
